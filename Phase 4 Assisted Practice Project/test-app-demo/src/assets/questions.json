@@ -1,0 +1,175 @@
+{
+    "questions": [
+        {
+            "questionText": "Who is the father of HTML?",
+            "options": [
+                {
+                    "text": "Tim Berners-Lee",
+                    "correct": true
+                },
+                {
+                    "text": "Rasmus Lerdorf"
+                },
+                {
+                    "text": "Brendan Eich"
+                },
+                {
+                    "text": "Sergey Brin"
+                }
+            ],
+            "explanation": "Timothy John Berners-Lee (TimBL) is known as the father of HTML. He is a British computer scientist, best known as the inventor of the World Wide Web."
+        },
+        {
+            "questionText": "HTML stands for ",
+            "options": [
+                {
+                    "text": "HyperText Machine Language"
+                },
+                {
+                    "text": "HyperText Marking Language"
+                },
+                {
+                    "text": "HighText Marking Language"
+                },
+                {
+                    "text": "HyperText Markup Language",
+                    "correct": true
+                }
+            ],
+            "explanation": "HTML stands for HyperText Markup Language"
+        },
+        {
+            "questionText": "Which of the following tag is used for inserting the largest heading in HTML?",
+            "options": [
+                {
+                    "text": "head"
+                },
+                {
+                    "text": "<h1>",
+                    "correct": true
+                },
+                {
+                    "text": "<h6>"
+                },
+                {
+                    "text": "heading"
+                }
+            ],
+            "explanation": "Headings in HTML starts from <h1> to <h6> in which <h1> heading is the largest one"
+        },
+        {
+            "questionText": "Which element is used to get highlighted text in HTML5?",
+            "options": [
+                {
+                    "text": "<u>"
+                },
+                {
+                    "text": "<mark>",
+                    "correct": true
+                },
+                {
+                    "text": "<highlight>"
+                },
+                {
+                    "text": "<b>"
+                }
+            ],
+            "explanation": "The <mark> element is used to highlight a section of text"
+        },
+        {
+            "questionText": " Which of the following is not a HTML5 tag ?",
+            "options": [
+                {
+                    "text": "<slider>",
+                    "correct": true
+                },
+                {
+                    "text": "<track>"
+                },
+                {
+                    "text": "<video>"
+                },
+                {
+                    "text": "<source>"
+                }
+            ],
+            "explanation": "<slider> is not HTML% tag."
+        },
+        {
+            "questionText": "How do we write comments in HTML?",
+            "options": [
+                {
+                    "text": "</…….>"
+                },
+                {
+                    "text": "</……/>"
+                },
+                {
+                    "text": "<…….!>"
+                },
+                {
+                    "text": "<!……>",
+                    "correct": true
+                }
+            ],
+            "explanation": " <!…..comment….>."
+        },
+        {
+            "questionText": "Which element is used for or styling HTML5 layout?",
+            "options": [
+                {
+                    "text": "jQuery"
+                },
+                {
+                    "text": "CSS",
+                    "correct": true
+                },
+                {
+                    "text": "JavaScript"
+                },
+                {
+                    "text": "PHP"
+                }
+            ],
+            "explanation": "For styling HTML5, CSS i.e Cascading Style Sheet is used."
+        },
+        {
+            "questionText": "HTML is a subset of ?",
+            "options": [
+                {
+                    "text": "SGML",
+                    "correct": true
+                },
+                {
+                    "text": "SGMT"
+                },
+                {
+                    "text": "SGME"
+                },
+                {
+                    "text": "XHTML"
+                }
+            ],
+            "explanation": "HTML is a subset of SGML."
+        },
+        {
+            "questionText": "Which character is used to represent when a tag is closed in HTML?",
+            "options": [
+                {
+                    "text": "/",
+                    "correct": true
+                },
+                {
+                    "text": "#"
+                },
+                {
+                    "text": "="
+                },
+                {
+                    "text": ";"
+                }
+            ],
+            "explanation": "The forward-slash (/) is used to indicate the closure of a tag within HTML."
+        }
+    ]
+}
